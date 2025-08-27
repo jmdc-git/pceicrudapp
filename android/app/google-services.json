@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346596979467",
+    "project_id": "pseicrud",
+    "storage_bucket": "pseicrud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346596979467:android:657b418c91ab33c5b6e80e",
+        "android_client_info": {
+          "package_name": "com.example.pseicrud_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5ulg9--_C5lkX5wxE0GpT5Qa6AEuTcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
